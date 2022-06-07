@@ -2,6 +2,7 @@ import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { HomeComponent } from './components/home/home.component';
 
+// Routes to navigate to in the application
 const routes: Routes = [
   {
     path: '',
